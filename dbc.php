@@ -50,8 +50,8 @@ define ("GUEST_LEVEL", 0);
 
 
 /*************** reCAPTCHA KEYS****************/
-$publickey = "6LcGEs8SAAAAAEvXFB76QGoDDUHee37tdgZ8tv5j";
-$privatekey = "6LcGEs8SAAAAAPvIhodoh-y1SLDDMxPIRC6hYIx7";
+$publickey = "6LdtidYSAAAAAKCkUdPF4x5ZoXmKrZABLEyLsR6p";
+$privatekey = "6LdtidYSAAAAAM2DUZjTd-HbARomKBH0UXmrG4cy";
 
 
 /**** PAGE PROTECT CODE  ********************************
